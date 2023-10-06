@@ -1,0 +1,12 @@
+User: ifmoraes@yahoo.com.br 29/09/2023 11:49:50 AM: INFO: <module> Line:21 This is an info-level log message
+User: ifmoraes@yahoo.com.br 29/09/2023 11:49:50 AM: WARNING: <module> Line:22 This is a warning-level message
+User: ifmoraes@yahoo.com.br 29/09/2023 11:49:50 AM: DEBUG: another_function Line:7 This is a debug-level log message
+User: ifmoraes@yahoo.com.br 29/09/2023 11:49:51 AM: INFO: <module> Line:21 This is an info-level log message
+User: ifmoraes@yahoo.com.br 29/09/2023 11:49:51 AM: WARNING: <module> Line:22 This is a warning-level message
+User: ifmoraes@yahoo.com.br 29/09/2023 11:49:51 AM: DEBUG: another_function Line:7 This is a debug-level log message
+User: ifmoraes@yahoo.com.br 29/09/2023 11:49:53 AM: INFO: <module> Line:21 This is an info-level log message
+User: ifmoraes@yahoo.com.br 29/09/2023 11:49:53 AM: WARNING: <module> Line:22 This is a warning-level message
+User: ifmoraes@yahoo.com.br 29/09/2023 11:49:53 AM: DEBUG: another_function Line:7 This is a debug-level log message
+User: ifmoraes@yahoo.com.br 29/09/2023 11:49:54 AM: INFO: <module> Line:21 This is an info-level log message
+User: ifmoraes@yahoo.com.br 29/09/2023 11:49:54 AM: WARNING: <module> Line:22 This is a warning-level message
+User: ifmoraes@yahoo.com.br 29/09/2023 11:49:54 AM: DEBUG: another_function Line:7 This is a debug-level log message
